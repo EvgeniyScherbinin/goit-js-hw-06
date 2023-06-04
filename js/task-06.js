@@ -12,4 +12,5 @@ input.addEventListener('blur', function() {
         input.classList.remove('valid');
     };
 
+    
 });
